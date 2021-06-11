@@ -1,3 +1,5 @@
-for _ in range(5):
+x = 0
+while 3 < x:
     print('hi!')
-    print('hihihi!')
+    print('kkkkk')
+    x += 1
